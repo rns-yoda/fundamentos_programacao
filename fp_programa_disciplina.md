@@ -1,10 +1,11 @@
 # Programa da Disciplina de Fundamentos de Programação
 
 A disciplina de **Fundamentos de Programação** oferece uma introdução aos conceitos essenciais da programação e desenvolvimento de software. Os alunos aprendem o que é programação, o funcionamento de computadores, e as diferentes linguagens de programação. O curso ensina a resolução de problemas através de algoritmos, fluxogramas e pseudocódigo, além de explorar a estrutura e sintaxe de programas, variáveis, tipos de dados, operadores, e controle de fluxo. Ao final, são apresentados diferentes paradigmas de programação, como a programação orientada a objetos. O objetivo é capacitar os alunos a desenvolverem soluções computacionais básicas e construir uma base sólida para projetos de software.
----
 
+<!-- 
 ## Objetivo do Curso
-Proporcionar uma compreensão dos conceitos fundamentais relacionados à programação, incluindo algoritmos, abstração procedimental e abstração de dados, além de explorar a programação como um processo de construção de abstrações e os diferentes paradigmas de programação. Ao final desta unidade curricular, os alunos deverão ter domínio dos conceitos abordados e serem capazes de desenvolver programas utilizando uma linguagem algorítmica.
+Proporcionar uma compreensão dos conceitos fundamentais relacionados à programação, incluindo algoritmos, abstração procedimental e abstração de dados, além de explorar a programação como um processo de construção de abstrações e os diferentes paradigmas de programação. Ao final desta unidade curricular, os alunos deverão ter domínio dos conceitos abordados e serem capazes de desenvolver programas utilizando uma linguagem algorítmica. 
+-->
 
 ---
 
