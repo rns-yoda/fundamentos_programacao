@@ -23,7 +23,7 @@ Proporcionar uma compreensão dos conceitos fundamentais relacionados à program
 10. [Programação no Contexto de Projetos](#10-programação-no-contexto-de-projetos)
 
 ---
-
+ 
 ## 1. Introdução à Programação e Fundamentos
 Introdução aos conceitos fundamentais da programação e ao funcionamento básico dos computadores e linguagens de programação.
 
@@ -32,16 +32,19 @@ Introdução aos conceitos fundamentais da programação e ao funcionamento bás
 - **1.3 Linguagens de Programação: Definição e Classificação**: Classificação das linguagens de programação e suas aplicações.
 - **1.4 Conceitos básicos: Algoritmo, Programa e Abstração**: Noções iniciais sobre algoritmos, programas e o conceito de abstração.
 
+
+
 ## 2. Resolução de Problemas com Programação
 Passos e estratégias para a resolução de problemas usando a lógica de programação.
 
 - **2.1 Interpretação do Problema**: Análise e compreensão do problema a ser resolvido.
 - **2.2 Solução do Problema com Programação**: Aplicação de métodos de programação para resolver problemas.
 - **2.3 Algoritmia e Programação: conceitos/definições**: Definição e importância de algoritmos na programação.
+  - **2.3.0 Descrição narrativa**: Descrever algoritmos em forma de texto.
   - **2.3.1 Pseudocódigo**: Uso de pseudocódigo para descrever algoritmos.
   - **2.3.2 Fluxogramas**: Representação visual de algoritmos através de fluxogramas.
-  - **2.3.3 Codificação (implementação)**: Transposição do algoritmo para uma linguagem de programação.
-
+  - **2.3.3 Codificação**: Transposição do algoritmo para uma linguagem de programação.
+       
 ## 3. Estruturação de Programas e Sintaxe
 Exploração da estrutura básica de programas, introduzindo a linguagem Portugol.
 
@@ -60,21 +63,17 @@ Noções de variáveis, tipos de dados e operadores.
 - **4.4 Conversão entre Tipos de Dados**: Conversão de dados de um tipo para outro.
 - **4.5 Operadores e Ordem de Avaliação**: Operadores matemáticos e lógicos e sua ordem de execução.
 
-## 5. Entrada e Saída de Dados
+## 5. Entrada e Saída de Dados** 
 Mecanismos de comunicação com o usuário.
 
-- **5.1 Comunicação Básica com o Utilizador**: Introdução à comunicação básica em programas.
-- **5.2 Entrada e Saída de Dados em Programas**: Métodos para entrada e saída de dados.
 
 ## 6. Controle de Fluxo
 Estruturas para controle de decisões e repetições no fluxo do programa.
-
 - **6.1 Estruturas condicionais**: Implementação de condições em programas.
 - **6.2 Estruturas de Repetição**: Implementação de laços de repetição.
 
 ## 7. Métodos
 Definição e uso de métodos para modularizar o código.
-
 - **7.1 Sem retorno**: Métodos que não retornam valor.
 - **7.2 Com retorno**: Métodos que retornam valor.
 
@@ -95,8 +94,7 @@ Introdução à aplicação da programação em projetos de desenvolvimento de s
 
 - **10.1 A Programação em Projetos de Desenvolvimento de Software**: Aplicação de conhecimentos de programação em projetos.
 - **10.2 Introdução às linguagens de programação**: Visão geral das principais linguagens de programação e seus contextos de uso.
-
----
+    
 
 ## Suporte
 Este curso utiliza as seguintes ferramentas:
@@ -107,9 +105,13 @@ Este curso utiliza as seguintes ferramentas:
 
 
 ## Referências [em actualização]
-- Ascencio, A. F. G., & Campos, E. A. V. (2012). *Fundamentos da programação de computadores: Algoritmos, Pascal, C, C++ e Java* (3ª ed.). Pearson Universidades.
-- Barry, Paul, Griffiths, David, USE A CABEÇA! PROGRAMAÇAO, Editora: ALTA BOOKS, 1.ª Edição, 2010
-- Concilio, Ricardo, Furlan, Marco A., Gomes, Marcelo, Soares, Marcio, ALGORITMOS E LOGICA DE PROGRAMAÇAO, Editora: CENGAGE, 2.ª Edição, 2011 
-- Fertig, Cristina, Medina, Marco, ALGORITMOS E PROGRAMAÇAO - TEORIA E PRATICA, Editora: NOVATEC, Edição: 1.ª, 2005 
-- Forbellone, Andre Luiz, LOGICA DE PROGRAMAÇAO, Editora: PRENTICE HALL BRASIL, Edição: 3.ª, 2005 
+- Ascencio, A. F. G., & Campos, E. A. V. (2012). Fundamentos da programação de computadores: Algoritmos, Pascal, C, C++ e Java (3a ed.). Pearson Universidades.
+- Furlan, M. A., Souza, M. A. de, & et al. (2011). Algoritmos e lógica de programação: um texto introdutório para engenharia (2a ed.). Cengage Learning.
+- Manzano, J. A. N. G., & Oliveira, J. F. de. (2005). Algoritmos: lógica para desenvolvimento de programação de computadores (17a ed.). Érica.
+
+ **Bibliografia complementar:**
+- Barry, P., & Griffiths, D. (2010). Use a cabeça! Programação (1a ed.). Alta Books.
+- Fertig, C., & Medina, M. (2005). Algoritmos e programação - teoria e prática (1a ed.). Novatec.
+- Forbellone, A. L. (2005). Lógica de programação (3a ed.). Prentice Hall Brasil.
+ 
 
